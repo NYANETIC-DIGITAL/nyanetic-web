@@ -1,0 +1,13 @@
+2026-05-31 17:59:13.050 [info] Started local extension host with pid 4393.
+2026-05-31 17:59:13.114 [info] Started initializing default profile extensions in extensions installation folder. file:///root/.vscode/extensions
+2026-05-31 17:59:13.346 [info] Completed initializing default profile extensions in extensions installation folder. file:///root/.vscode/extensions
+2026-05-31 17:59:14.081 [info] [AccountPolicyGate] apply: state=inactive, reason=undefined, isRestricted=false
+2026-05-31 17:59:14.586 [info] Settings Sync: Account status changed from uninitialized to unavailable
+2026-05-31 17:59:16.171 [info] [perf] Render performance baseline is 26ms
+2026-05-31 17:59:19.082 [info] [AccountPolicyGate] apply: state=inactive, reason=undefined, isRestricted=false
+2026-05-31 18:00:41.383 [error] An unknown error occurred. Please consult the log for more details.
+2026-05-31 18:01:18.859 [info] Started local extension host with pid 6189.
+2026-05-31 18:03:11.934 [error] [chat setup] signIn: error Error: Cancelled
+2026-05-31 18:05:30.057 [error] An unknown error occurred. Please consult the log for more details.
+2026-05-31 18:11:18.322 [error] [chat setup] signIn: error Error: Cancelled
+2026-05-31 18:11:41.111 [error] [chat setup] signIn: error Error: Cancelled

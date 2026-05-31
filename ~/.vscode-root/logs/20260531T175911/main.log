@@ -1,0 +1,10 @@
+2026-05-31 17:59:11.266 [info] StorageMainService: creating application shared storage
+2026-05-31 17:59:11.362 [info] [shared storage] Creating shared storage database at '/root/.vscode-shared/sharedStorage/state.vscdb' (wasCreated: true)
+2026-05-31 17:59:11.363 [info] [shared storage] Initializing fallback application storage (path: /root/nyanetic-web/~/.vscode-root/User/globalStorage/state.vscdb)
+2026-05-31 17:59:11.381 [info] [shared storage] Fallback application storage initialized with 3 items
+2026-05-31 17:59:11.383 [info] update#setState idle
+2026-05-31 17:59:41.385 [info] update#setState checking for updates
+2026-05-31 17:59:41.473 [info] update#setState idle
+2026-05-31 18:01:18.826 [info] Extension host with pid 4393 exited with code: 0, signal: unknown.
+2026-05-31 18:59:41.393 [info] update#setState checking for updates
+2026-05-31 18:59:42.124 [info] update#setState available for download
