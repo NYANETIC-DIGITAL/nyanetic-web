@@ -36,3 +36,11 @@
 2026-05-31 18:53:34.719 [error] #138: https://mobile.events.data.microsoft.com/OneCollector/1.0?cors=true&content-type=application/x-json-stream - error POST net::ERR_CONNECTION_REFUSED
 2026-05-31 18:53:37.865 [error] #139: https://mobile.events.data.microsoft.com/OneCollector/1.0?cors=true&content-type=application/x-json-stream - error POST net::ERR_CONNECTION_REFUSED
 2026-05-31 18:54:32.342 [error] #140: https://mobile.events.data.microsoft.com/OneCollector/1.0?cors=true&content-type=application/x-json-stream - error POST net::ERR_CONNECTION_REFUSED
+2026-05-31 20:56:20.125 [error] #433: https://mobile.events.data.microsoft.com/OneCollector/1.0?cors=true&content-type=application/x-json-stream - error POST net::ERR_CONNECTION_REFUSED
+2026-05-31 20:56:22.851 [error] #434: https://mobile.events.data.microsoft.com/OneCollector/1.0?cors=true&content-type=application/x-json-stream - error POST net::ERR_CONNECTION_REFUSED
+2026-05-31 20:56:23.638 [error] #435: https://mobile.events.data.microsoft.com/OneCollector/1.0?cors=true&content-type=application/x-json-stream - error POST net::ERR_CONNECTION_REFUSED
+2026-05-31 20:56:25.356 [error] #436: https://mobile.events.data.microsoft.com/OneCollector/1.0?cors=true&content-type=application/x-json-stream - error POST net::ERR_CONNECTION_REFUSED
+2026-05-31 20:56:35.876 [error] #437: https://mobile.events.data.microsoft.com/OneCollector/1.0?cors=true&content-type=application/x-json-stream - error POST net::ERR_CONNECTION_REFUSED
+2026-05-31 20:56:38.565 [error] #438: https://mobile.events.data.microsoft.com/OneCollector/1.0?cors=true&content-type=application/x-json-stream - error POST net::ERR_CONNECTION_REFUSED
+2026-05-31 20:57:00.355 [error] #439: https://mobile.events.data.microsoft.com/OneCollector/1.0?cors=true&content-type=application/x-json-stream - error POST net::ERR_CONNECTION_REFUSED
+2026-05-31 20:57:03.468 [error] #440: https://mobile.events.data.microsoft.com/OneCollector/1.0?cors=true&content-type=application/x-json-stream - error POST net::ERR_CONNECTION_REFUSED
